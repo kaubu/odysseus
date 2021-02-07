@@ -1,5 +1,5 @@
 // Requirements
-// Place token in a ".env" file in the root directory as TOKEN. Disable if you set your own environmental variables
+// Place token in a ".env" file in the root directory as DISCORD_TOKEN. Disable if you set your own environmental variables
 const dotenv = require("dotenv");
 const fs = require("fs");
 const Discord = require("discord.js");
