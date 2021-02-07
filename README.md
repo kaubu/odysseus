@@ -1,5 +1,6 @@
 # Odysseus
-A bot for Discord, written in JS using the Discord.js module.
+A bot for Discord, written in JS using the Discord.js module.  
+The spiritually successor to Alliad.  
 
 ## Prerequisites
 * Node.js
