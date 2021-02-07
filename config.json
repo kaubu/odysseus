@@ -1,0 +1,13 @@
+{
+	"name": "Odysseus",
+	"version": "1.0.0",
+	"prefix": ";;",
+	"theme": "#eb8f34",
+	"credits": "Made by https://github.com/kaubu",
+	"owners": ["482061657191874562"],
+	"owner": "Kaution#6975",
+	"source": "https://github.com/kaubu/odysseus",
+	"devServer": "https://discord.gg/KqkhyTdmGg",
+	"botInvite": "https://discord.com/api/oauth2/authorize?client_id=806023292409348116&scope=bot&permissions=0",
+	"verbose": true
+}

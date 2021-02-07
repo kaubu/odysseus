@@ -1,0 +1,27 @@
+{
+  "name": "odysseus",
+  "version": "1.0.0",
+  "description": "A bot for discord written in Discord.JS.",
+  "main": "odysseus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaubu/odysseus.git"
+  },
+  "author": "https://github.com/kaubu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaubu/odysseus/issues"
+  },
+  "homepage": "https://github.com/kaubu/odysseus#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.19.0"
+  }
+}
