@@ -6,6 +6,7 @@ A bot for Discord, written in Discord.js.
 * Chalk
 * Dotenv (Optional)
 * Eslint (Optional)
+* PM2 (Optional)
 
 ## Commands (without prefix)
 `ban`: Bans a user.  
