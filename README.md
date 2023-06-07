@@ -34,6 +34,3 @@ These are commands that only the owner/s can use. You can set the IDs of the own
 ## Changelog
 **v1.0.0**
 * Initial build
-
-## Extra
-Join the development server: https://discord.gg/KqkhyTdmGg
